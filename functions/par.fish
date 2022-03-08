@@ -1,0 +1,1 @@
+alias par="paru -Rsn"

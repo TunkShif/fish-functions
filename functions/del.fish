@@ -1,0 +1,1 @@
+alias del="gio trash"
