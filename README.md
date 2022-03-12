@@ -9,4 +9,3 @@ use fisher plugin manager:
 ```fish
 fisher install TunkShif/fish-functions
 ```
-

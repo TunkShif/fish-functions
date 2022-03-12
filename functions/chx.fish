@@ -1,0 +1,1 @@
+alias chx="chmod +x"
