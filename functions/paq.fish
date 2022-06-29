@@ -1,1 +1,1 @@
-alias par="paru -Q"
+alias paq="paru -Q"
